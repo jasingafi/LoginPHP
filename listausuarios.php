@@ -330,7 +330,7 @@ $resultadomaterias = $conexion->query($materias);
 		<h3 class="header smaller lighter blue">Registro de Usuarios
 			<button class="btn btn-white btn-info btn-bold">
 				<i class="ace-icon fa fa-floppy-o bigger-120 blue"></i>
-					<a href="RegistroClases.php">Registrar Nuevo Usuarios</a>
+					<a href="#">Registrar Nuevo Usuarios</a>
 			</button>
 		</h3>
 
